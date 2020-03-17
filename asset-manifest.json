@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dependencytrackerutil/static/css/main.f387ca1b.chunk.css",
-    "main.js": "/dependencytrackerutil/static/js/main.af73a42e.chunk.js",
-    "main.js.map": "/dependencytrackerutil/static/js/main.af73a42e.chunk.js.map",
+    "main.js": "/dependencytrackerutil/static/js/main.6522e7d6.chunk.js",
+    "main.js.map": "/dependencytrackerutil/static/js/main.6522e7d6.chunk.js.map",
     "runtime-main.js": "/dependencytrackerutil/static/js/runtime-main.0cab9ee5.js",
     "runtime-main.js.map": "/dependencytrackerutil/static/js/runtime-main.0cab9ee5.js.map",
     "static/css/2.47e06e2e.chunk.css": "/dependencytrackerutil/static/css/2.47e06e2e.chunk.css",
     "static/js/2.65e71ae7.chunk.js": "/dependencytrackerutil/static/js/2.65e71ae7.chunk.js",
     "static/js/2.65e71ae7.chunk.js.map": "/dependencytrackerutil/static/js/2.65e71ae7.chunk.js.map",
     "index.html": "/dependencytrackerutil/index.html",
-    "precache-manifest.9dcd1f4440ff59471b756aee241a084d.js": "/dependencytrackerutil/precache-manifest.9dcd1f4440ff59471b756aee241a084d.js",
+    "precache-manifest.eac133cafe95a1d29b77c3aa5f96d659.js": "/dependencytrackerutil/precache-manifest.eac133cafe95a1d29b77c3aa5f96d659.js",
     "service-worker.js": "/dependencytrackerutil/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/dependencytrackerutil/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.f387ca1b.chunk.css.map": "/dependencytrackerutil/static/css/main.f387ca1b.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.65e71ae7.chunk.js",
     "static/css/main.f387ca1b.chunk.css",
-    "static/js/main.af73a42e.chunk.js"
+    "static/js/main.6522e7d6.chunk.js"
   ]
 }
